@@ -13,7 +13,7 @@
 	<name>dubbo-provider Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 	<properties>
-		<spring.version>4.3.7.RELEASE</spring.version>
+		<spring.version>6.0.0</spring.version>
 		<!--<dubbo.version>2.4.11</dubbo.version> -->
 		<dubbo.version>2.6.5</dubbo.version>
 		<zookeeper.version>3.4.6</zookeeper.version>
